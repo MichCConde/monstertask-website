@@ -1,6 +1,14 @@
 -----------------------
 # README
 -----------------------
+
+
+Changelog:
+-----------------------
+Version 1.0 13-06-2018
+- initial release 
+
+
 Credits:
 -----------------------
 - Twitter Bootstrap http://getbootstrap.com
@@ -11,3 +19,7 @@ Credits:
 - Bootsnav http://bootsnav.danurstrap.com/
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
+
+License:
+-----------------------
+This template is under Free License - https://www.themesine.com/license/
